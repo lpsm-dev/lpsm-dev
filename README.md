@@ -139,7 +139,7 @@
 <p align="center">
   <samp>
     <b>
-      I love making new connections!</b> So if you want to say <b>hi, I'll be happy to meet you!
+      I love new connections!</b> So if you want to say <b>hi, I'll be happy to meet you!
     </b>
   <samp>
 </p>

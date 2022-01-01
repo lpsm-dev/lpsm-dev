@@ -49,7 +49,7 @@
 
 <ul>
   <li>
-    <samp>🔭 I am currently working at Nuage as a DevOps Engineer</samp>
+    <samp>🔭 I am currently working at Nuage as a DevOps Analyst</samp>
   </li>
   <li>
     <samp>🌱 The technologies/tools that i'm currently learning are: Rust, Blockchain, Security</samp>

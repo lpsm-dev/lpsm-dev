@@ -1,23 +1,6 @@
 <h1 align="center"> >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> 👨‍💻! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="GIF" width="50px"></h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <a href="https://www.linkedin.com/in/luccapessoa">
-    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="35px">
-  </a>
-  <a href="https://github.com/lpmatos">
-    <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="35px">
-  </a>
-  <a href="https://www.facebook.com/luccapessoa9">
-    <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="35px">
-  </a>
-  <a href="https://www.instagram.com/luccapessoa/">
-    <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="35px">
-  </a>
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
-<p align="center">
     <img src="https://gidigi.com/cdn/love.gif" width="175">
 </p>
 

@@ -52,7 +52,7 @@
   <br>
   <br>
   <samp>
-    Script Language (Python, Ruby, Shell Script, PowerShell), Backend with Python(Flask)/NodeJS(Express), Linguagem funcional with Clojure, POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, Stack ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
+    Script Language (Python, Ruby, Shell Script, PowerShell), Backend with Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, Stack ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
   </samp>
 </p>
 

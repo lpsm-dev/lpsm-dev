@@ -3,9 +3,7 @@
   "scripts": {
     "cm": "git cz",
     "lint": "mega-linter-runner -p . --fix",
-    "secrets": "gitleaks -s . -c .gitleaks.toml detect",
-    "release": "npx semantic-release --no-ci",
-    "release-debug": "npx semantic-release --dry-run --no-ci --debug"
+    "secrets": "gitleaks -s . -c .gitleaks.toml detect"
   },
   "commitlint": {
     "extends": [

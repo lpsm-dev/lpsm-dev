@@ -43,16 +43,19 @@
 
 <ul>
   <li>
-    <samp>🔭 I am currently working at Nuage as a DevOps Analyst</samp>
+    <samp>🔭 I am currently working at Nuage as a <b>DevOps Analyst</b></samp>
   </li>
   <li>
-    <samp>🌱 The technologies/tools that i'm currently learning are: Rust, Blockchain, Security</samp>
+    <samp>🌱 The technologies/tools that i'm currently learning are: <b>Rust, Blockchain, Security</b></samp>
+  </li>
+  <li>
+    <samp>👾 Cybersecurity Enthusiast.</samp>
   </li>
   <li>
     <samp>👯 I'm looking to collaborate on new solutions and open-source projects</samp>
   </li>
   <li>
-    <samp>💬 Ask me about anything that you want</samp>
+    <samp>💬 Ask me about anything that you want!</samp>
   </li>
 </ul>
 

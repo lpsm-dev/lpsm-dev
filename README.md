@@ -85,7 +85,6 @@
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
   </a>
-
   <a href="https://github.com/lpmatos/twitter-sentimental-analysis-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-sentimental-analysis-covid" />
   </a>
@@ -99,7 +98,6 @@
   <a href="https://github.com/lpmatos/static-list">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=static-list" />
   </a>
-
   <a href="https://github.com/lpmatos/gitlab-ci-lint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=gitlab-ci-lint" />
   </a>

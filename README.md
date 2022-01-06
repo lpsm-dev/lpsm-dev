@@ -74,9 +74,9 @@
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-204E87?&style=for-the-badge&logo=windows&logoColor=white">
   <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-blue?&style=for-the-badge&logo=powershell&logoColor=white">
-  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">

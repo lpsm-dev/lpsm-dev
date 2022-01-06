@@ -121,6 +121,12 @@
 </p>
 </details>
 
+<details><summary>Contributing</summary>
+<p align="center">
+<img alt="lpmatos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lpmatos&theme=gotham"/></a>
+</p>
+</details>
+
 <br>
 
 <p align="center">

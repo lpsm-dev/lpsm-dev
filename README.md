@@ -27,7 +27,7 @@
   </p>
 </p>
 
-<h2 align="center">Intro</h2>
+<h1 align="center">Intro</h1>
 
 <p>
   <samp>
@@ -59,7 +59,7 @@
   </li>
 </ul>
 
-<h2 align="center">Techs</h2>
+<h1 align="center">Techs</h1>
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
@@ -70,7 +70,7 @@
   </samp>
 </p>
 
-<h2 align="center">Skills</h2>
+<h1 align="center">Skills</h1>
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
@@ -85,7 +85,7 @@
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
-<h2 align="center">Projects</h2>
+<h1 align="center">Projects</h1>
 
 <p align="center">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
@@ -113,7 +113,7 @@
   <a href="https://github.com/lpmatos?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<h2 align="center">GitHub Status</h2>
+<h1 align="center">GitHub Status</h1>
 
 <details><summary>General</summary>
 <p align="center">

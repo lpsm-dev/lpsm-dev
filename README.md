@@ -96,8 +96,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lpmatos/static-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=static-list" />
+  <a href="https://github.com/lpmatos/helm-recursive-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=helm-recursive-library" />
   </a>
 
   <a href="https://github.com/lpmatos/gitlab-ci-lint">

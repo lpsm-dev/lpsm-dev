@@ -73,16 +73,16 @@
 <h1 align="center">Skills</h1>
 
 <p align="center">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white">
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-204E87?&style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-blue?&style=for-the-badge&logo=powershell&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?&style=for-the-badge&logo=windows&logoColor=white">
+  <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-black?&style=for-the-badge&logo=powershell&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
 <h1 align="center">Projects</h1>

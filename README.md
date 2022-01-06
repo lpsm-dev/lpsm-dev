@@ -113,7 +113,7 @@
   <a href="https://github.com/lpmatos?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<h1 align="center">GitHub Status</h1>
+<h1 align="center">GitHub Stats</h1>
 
 <details><summary>General</summary>
 <p align="center">

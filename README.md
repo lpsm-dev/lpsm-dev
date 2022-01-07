@@ -130,6 +130,11 @@
 <h1 align="center">Donations</h1>
 
 <p align="center">
+  <samp>
+    If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
+  <samp>
+  <br>  
+  <br>
   <a href="https://www.blockchain.com/pt/btc/address/bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5">
     <img alt="BTC Address" src="https://img.shields.io/badge/BTC%20Address-black?style=for-the-badge&logo=bitcoin&logoColor=white">
   </a>

@@ -7,12 +7,9 @@
   <a href="https://github.com/lpmatos">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lpmatos?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-</p>
-
-
-
-<p align="center">
-    <img src="https://gidigi.com/cdn/love.gif" width="175">
+  <br>
+  <br>
+  <img src="https://gidigi.com/cdn/love.gif" width="265">
 </p>
 
 <p align="center">

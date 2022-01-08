@@ -76,7 +76,7 @@ func GetBio() Bio {
   <br>
   
   <samp>
-    Script Language (Python, Ruby, Shell Script, PowerShell), Backend with Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, Stack ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
+    CLI Development (Golang, Python), Programming script (Ruby, Shell Script, PowerShell), Backend develop with Flask/NodeJS, SQL with Postgres/MySQL/MariaDB, NoSQL with MongoDB/Redis/ArangoDB, Message Broker with RabbitMQ/Mosquitto, DevOps with GitLab CI/GitHub Actions/Azure Devops, Cloud providers AWS/GCP, Observability with ELK/EFK/Graylog, Monitoring with Zabbix/Prometheus/Grafana, IAC with Terraform/Crossplane/Packer/Ansible, Docker and Cloud Native Buildpacks, Kubernetes/Rancher/Helm.
   </samp>
 </p>
 

@@ -1,4 +1,8 @@
-<h1 align="center"> >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> 👨‍💻! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="GIF" width="50px"></h2>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px">
+  >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px">
+</h1>
 
 <p align="center">
   <a href="https://github.com/lpmatos?tab=repositories&sort=stargazers">

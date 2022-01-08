@@ -4,11 +4,14 @@
   <a href="https://github.com/lpmatos?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=white&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gsvprharsha"/>
   </a>
+  
   <a href="https://github.com/lpmatos">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lpmatos?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
+  
   <br>
   <br>
+  
   <img src="https://gidigi.com/cdn/love.gif" width="265">
 </p>
 
@@ -19,6 +22,7 @@
 
 <p align="center">
   <samp>👇 Hit in your console or terminal to connect with me:</samp>
+  
   <p align="center">
     <code>npx lpmatos-resume</code>
   </p>
@@ -63,8 +67,10 @@ func GetBio() Bio {
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
+  
   <br>
   <br>
+  
   <samp>
     Script Language (Python, Ruby, Shell Script, PowerShell), Backend with Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, Stack ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
   </samp>
@@ -91,6 +97,7 @@ func GetBio() Bio {
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
   </a>
+  
   <a href="https://github.com/lpmatos/twitter-sentimental-analysis-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-sentimental-analysis-covid" />
   </a>
@@ -104,13 +111,16 @@ func GetBio() Bio {
   <a href="https://github.com/lpmatos/helm-recursive-library">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=helm-recursive-library" />
   </a>
+  
   <a href="https://github.com/lpmatos/gitlab-ci-lint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=gitlab-ci-lint" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/lpmatos?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-black?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/lpmatos?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-black?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </p>
 
 <h1 align="center">GitHub Stats</h1>
@@ -133,8 +143,10 @@ func GetBio() Bio {
   <samp>
     If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
   <samp>
+    
   <br>  
   <br>
+    
   <a href="https://www.blockchain.com/pt/btc/address/bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5">
     <img alt="BTC Address" src="https://img.shields.io/badge/BTC%20Address-black?style=for-the-badge&logo=bitcoin&logoColor=white">
   </a>

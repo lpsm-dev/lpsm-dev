@@ -10,9 +10,17 @@ jobs:
 
     steps:
       - uses: actions/stale@v4
+        id: stale
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          stale-issue-message: "This issue is being marked as stale due to a long period of inactivity"
-          stale-pr-message: "This PR is being marked as stale due to a long period of inactivity"
-          stale-issue-label: "no-issue-activity"
-          stale-pr-label: "no-pr-activity"
+          stale-issue-message: 'This issue is being marked as stale due to a long period of inactivity'
+          stale-pr-message: 'This PR is being marked as stale due to a long period of inactivity'
+          close-issue-message: 'This issue was closed because it has been stalled for 5 days with no activity.'
+          close-pr-message: 'This PR was closed because it has been stalled for 10 days with no activity.'
+          days-before-stale: 30
+          days-before-close: 5
+          stale-issue-label: 'no-issue-activity'
+          stale-pr-label: 'no-pr-activity'
+          exempt-issue-labels: 'blocked,must,should,keep'
+
+      - name: Print outputs
+        run: echo ${{ join(steps.stale.outputs.*, ',') }}

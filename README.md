@@ -32,29 +32,32 @@
   </samp>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
 
-<h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Talking about me...
-</h2>
+<h1 align="center">About me</h1>
 
-<ul>
-  <li>
-    <samp>🔭 I am currently working at Nuage as a <b>DevOps Analyst</b></samp>
-  </li>
-  <li>
-    <samp>🌱 The technologies/tools that i'm currently learning are: <b>Rust, Blockchain, Security</b></samp>
-  </li>
-  <li>
-    <samp>👾 Cybersecurity Enthusiast.</samp>
-  </li>
-  <li>
-    <samp>👯 I'm looking to collaborate on new solutions and open-source projects</samp>
-  </li>
-  <li>
-    <samp>💬 Ask me about anything that you want!</samp>
-  </li>
-</ul>
+```Go
+package main
+
+import "fmt"
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- 🔭 I’m currently working on":      "Nuage as a DevOps Analyst",
+		"- 🌱 I’m currently learning":        "Rust, Blockchain, CyberSecurity - Sharpening my Front End Skills for Personal goal)",
+		"- 👯 I’m looking to collaborate on": "New solutions and open-source projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Ask me about anything that you want!",
+	}
+}
+```
 
 <h1 align="center">Techs</h1>
 

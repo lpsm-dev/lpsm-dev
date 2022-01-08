@@ -137,7 +137,7 @@
   </a>
 
   <a href="https://live.blockcypher.com/ltc/address/ltc1qwzrxmlmzzx68k2dnrcrplc4thadm75khzrznjw/">
-    <img alt="LTC Address" src="https://img.shields.io/badge/Litecoin%20Address-black?style=for-the-badge&logo=litecoin&logoColor=white">
+    <img alt="LTC Address" src="https://img.shields.io/badge/LTC%20Address-black?style=for-the-badge&logo=litecoin&logoColor=white">
   </a>
 </p>
 

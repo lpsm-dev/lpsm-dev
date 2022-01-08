@@ -131,13 +131,13 @@ func GetBio() Bio {
 
 <h1 align="center">GitHub Stats</h1>
 
-<details><summary>General</summary>
+<details align="center"><summary>General</summary>
 <p align="center">
   <img src="https://metrics.lecoq.io/lpmatos?template=terminal&base.community=0&languages=1&gists=1&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo">
 </p>
 </details>
 
-<details><summary>Contributing</summary>
+<details align="center"><summary>Activity</summary>
 <p align="center">
 <img alt="lpmatos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lpmatos&theme=gotham"/></a>
 </p>

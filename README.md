@@ -93,7 +93,7 @@ func GetBio() Bio {
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Repos</h1>
 
 <p align="center">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">

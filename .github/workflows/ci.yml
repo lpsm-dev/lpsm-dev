@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Secret Dection
+      - name: Secret Detection
         uses: zricethezav/gitleaks-action@master
         with:
           config-path: ${{ github.workspace }}/.github/config/.gitleaks.toml

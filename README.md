@@ -80,8 +80,6 @@ func GetBio() Bio {
   </samp>
 </p>
 
-<h1 align="center">Skills</h1>
-
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
   <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white">

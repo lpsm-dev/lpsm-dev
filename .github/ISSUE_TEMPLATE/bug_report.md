@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 ---
 
-### Behaviour
+### Behavior
 
 #### Steps to reproduce this issue
 
@@ -11,10 +11,10 @@ about: Create a report to help us improve
 2.
 3.
 
-#### Expected behaviour
+#### Expected behavior
 
 > Tell me what should happen
-#### Actual behaviour
+#### Actual behavior
 
 > Tell me what happens instead
 ### Configuration

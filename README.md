@@ -76,26 +76,25 @@ func GetBio() Bio {
   <br>
   
   <samp>
-    Script Language (Python, Ruby, Shell Script, PowerShell), Backend with Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, Stack ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
+    CLI Development (Golang, Python), Programming script (Ruby, Shell Script, PowerShell), Backend develop with Flask/NodeJS, SQL with Postgres/MySQL/MariaDB, NoSQL with MongoDB/Redis/ArangoDB, Message Broker with RabbitMQ/Mosquitto, DevOps with GitLab CI/GitHub Actions/Azure Devops, Cloud providers AWS/GCP, Observability with ELK/EFK/Graylog, Monitoring with Zabbix/Prometheus/Grafana, IAC with Terraform/Crossplane/Packer/Ansible, Docker and Cloud Native Buildpacks, Kubernetes/Rancher/Helm.
   </samp>
 </p>
 
-<h1 align="center">Skills</h1>
-
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
-  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?&style=for-the-badge&logo=windows&logoColor=white">
-  <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-black?&style=for-the-badge&logo=powershell&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img alt="ShellScript" src="https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white">
+  <img alt="Powershell" src="https://img.shields.io/badge/-PowerShell-black?&style=for-the-badge&logo=powershell&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="JS" src="https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Repos</h1>
 
 <p align="center">
   <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
@@ -108,7 +107,11 @@ func GetBio() Bio {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&theme=nord&" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lpmatos&theme=nord&" />
 </p>
 
 <p align="center">
@@ -129,13 +132,13 @@ func GetBio() Bio {
 
 <h1 align="center">GitHub Stats</h1>
 
-<details><summary>General</summary>
+<details align="center"><summary>General</summary>
 <p align="center">
   <img src="https://metrics.lecoq.io/lpmatos?template=terminal&base.community=0&languages=1&gists=1&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo">
 </p>
 </details>
 
-<details><summary>Contributing</summary>
+<details align="center"><summary>Activity</summary>
 <p align="center">
 <img alt="lpmatos's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lpmatos&theme=gotham"/></a>
 </p>

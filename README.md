@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px">
+  <img src="https://github.com/lpmatos/lpmatos/raw/main/assets/kyubey.gif" width="50px">
   >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px">
 </h1>
@@ -16,7 +16,7 @@
   <br>
   <br>
   
-  <img src="https://gidigi.com/cdn/love.gif" width="265">
+  <img src="https://github.com/lpmatos/lpmatos/raw/main/assets/code.gif" width="265">
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ func GetBio() Bio {
 <br>
 
 <p align="center">
-  <img width=35% src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" alt="GIF">
+  <img width=35% src="https://github.com/lpmatos/lpmatos/raw/main/assets/yoda.gif" alt="GIF">
 </p>
 
 <br>

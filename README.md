@@ -28,7 +28,7 @@
   <samp>👇 Hit in your console or terminal to connect with me:</samp>
   
   <p align="center">
-    <code>npx lpmatos-resume</code>
+    <code>npx ci-monk</code>
   </p>
 </p>
 

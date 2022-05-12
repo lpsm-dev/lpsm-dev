@@ -58,8 +58,8 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- 🔭 I’m currently working on":      "Nuage as a DevOps Analyst",
-		"- 🌱 I’m currently learning":        "Rust, Blockchain, CyberSecurity - Sharpening my Front End Skills for Personal goal)",
+		"- 🔭 I’m currently working on":      "NuageIT as a DevOps Analyst",
+		"- 🌱 I’m currently learning":        "Rust, Blockchain, CyberSecurity",
 		"- 👯 I’m looking to collaborate on": "New solutions and open-source projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Ask me about anything that you want!",

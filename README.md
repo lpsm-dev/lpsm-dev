@@ -169,10 +169,12 @@ func GetBio() Bio {
 
 <br>
 
-<p align="center">
-  <img width=35% src="https://github.com/ci-monk/ci-monk/raw/main/assets/yoda.gif" alt="GIF">
-</p>
+<div align="center">
 
+<img alt="star-wars" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px"/>
+  
+</div>
+    
 <br>
 
 <p align="center">

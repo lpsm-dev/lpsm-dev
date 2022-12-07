@@ -25,7 +25,7 @@
     "@semantic-release/gitlab": "9.3.0",
     "@semantic-release/release-notes-generator": "10.0.3",
     "commitizen": "4.2.4",
-    "mega-linter-runner": "5.13.0",
+    "mega-linter-runner": "6.15.0",
     "semantic-release": "19.0.2"
   }
 }

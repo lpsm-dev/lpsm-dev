@@ -1,7 +1,9 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "*/60 * * * *"}]
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
@@ -9,8 +11,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: lpmatos
+          user: lpsm-dev
           template: terminal
           base: header, activity, repositories, metadata
           config_timezone: America/Sao_Paulo
@@ -21,12 +24,10 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100

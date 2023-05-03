@@ -15,7 +15,7 @@ repos:
       - id: gitleaks
         args: ["--config", ".github/config/.gitleaks.toml", "--verbose"]
   - repo: https://github.com/commitizen-tools/commitizen
-    rev: 3.1.0
+    rev: 3.2.1
     hooks:
       - id: commitizen
         stages: [commit-msg]

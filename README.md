@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/kyubey.gif" width="100" heigh="100">
-  >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+  >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100" heigh="100">
 </h1>
 
@@ -8,14 +8,14 @@
   <a href="https://github.com/lpsm-dev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=white&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gsvprharsha"/>
   </a>
-  
+
   <a href="https://github.com/lpsm-dev">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lpsm-dev?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  
+
   <br>
   <br>
-  
+
   <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/code.gif" width="265">
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <samp>👇 Hit in your console or terminal to connect with me:</samp>
-  
+
   <p align="center">
     <code>npx lpsm-dev</code>
   </p>
@@ -71,10 +71,10 @@ func GetBio() Bio {
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
-  
+
   <br>
   <br>
-  
+
   <samp>
     CLI Development (Golang, Python), Programming script (Ruby, Shell Script, PowerShell), Backend develop with Flask/NodeJS, SQL with Postgres/MySQL/MariaDB, NoSQL with MongoDB/Redis/ArangoDB, Message Broker with RabbitMQ/Mosquitto, DevOps with GitLab CI/GitHub Actions/Azure Devops, Cloud providers AWS/GCP, Observability with ELK/EFK/Graylog, Monitoring with Zabbix/Prometheus/Grafana, IAC with Terraform/Crossplane/Packer/Ansible, Docker and Cloud Native Buildpacks, Kubernetes/Rancher/Helm.
   </samp>
@@ -100,7 +100,7 @@ func GetBio() Bio {
   <a href="https://github.com/lpsm-dev/twitter-realtime-processing-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=twitter-realtime-processing-covid" />
   </a>
-  
+
   <a href="https://github.com/lpsm-dev/twitter-sentimental-analysis-covid">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=twitter-sentimental-analysis-covid" />
   </a>
@@ -118,7 +118,7 @@ func GetBio() Bio {
   <a href="https://github.com/lpsm-dev/helm-recursive-library">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=helm-recursive-library" />
   </a>
-  
+
   <a href="https://github.com/lpsm-dev/gitlab-ci-lint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=gitlab-ci-lint" />
   </a>
@@ -154,10 +154,10 @@ func GetBio() Bio {
   <samp>
     If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
   <samp>
-    
-  <br>  
+
   <br>
-    
+  <br>
+
   <a href="https://www.blockchain.com/pt/btc/address/bc1qn50elv826qs2qd6xhfh6n79649epqyaqmtwky5">
     <img alt="BTC Address" src="https://img.shields.io/badge/BTC%20Address-black?style=for-the-badge&logo=bitcoin&logoColor=white">
   </a>
@@ -172,9 +172,9 @@ func GetBio() Bio {
 <div align="center">
 
 <img alt="star-wars" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350px"/>
-  
+
 </div>
-    
+
 <br>
 
 <p align="center">

@@ -26,7 +26,6 @@
 
 <p align="center">
   <samp>👇 Hit in your console or terminal to connect with me:</samp>
-
   <p align="center">
     <code>npx lpsm-dev</code>
   </p>
@@ -39,7 +38,6 @@
     Enthusiast, explorer and lover of DevOps culture, development with Python, NodeJS, Shell Script, PowerShell, Ruby and low level programming with C (OpenMP), automation and cloud. I currently work focused on container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, git workflow and monitoring environments. I participate in DevOps projects with CI/CD, Infra as Code and GitFlow, managed by agile methodologies (Scrum and Kanban).
   </samp>
 </p>
-
 
 <h1 align="center">About me</h1>
 
@@ -134,7 +132,7 @@ func GetBio() Bio {
 
 - [Google GitHub SDk] - [Add pagination options to list all package versions](https://github.com/google/go-github/pull/2250)
 
-<h1 align="center">GitHub Stats</h1>
+<h1 align="center">Metrics</h1>
 
 <details align="center">
 <summary>General</summary>

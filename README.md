@@ -16,7 +16,7 @@
   <br>
   <br>
 
-  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/code.gif" width="265">
+  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/code.gif" width="225">
 </p>
 
 <p align="center">

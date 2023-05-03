@@ -68,7 +68,7 @@ func GetBio() Bio {
 <h1 align="center">Techs</h1>
 
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
+  <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="300" heigh="190"/>
 
   <br>
   <br>

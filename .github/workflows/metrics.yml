@@ -28,6 +28,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_repositories: 100
+          plugin_repositories: yes
+          plugin_repositories_starred: 5
+          plugin_repositories_order: starred
           plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100

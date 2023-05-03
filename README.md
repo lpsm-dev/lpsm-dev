@@ -136,15 +136,21 @@ func GetBio() Bio {
 
 <h1 align="center">GitHub Stats</h1>
 
-<details align="center"><summary>General</summary>
+<details align="center">
+<summary>General</summary>
 <p align="center">
-  <img src="https://metrics.lecoq.io/lpsm-dev?template=terminal&base.community=0&languages=1&gists=1&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo">
+
+<img src="https://metrics.lecoq.io/lpsm-dev?template=terminal&base.community=0&languages=1&gists=1&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo">
+
 </p>
 </details>
 
-<details align="center"><summary>Activity</summary>
+<details align="center">
+<summary>Activity</summary>
 <p align="center">
-<img alt="lpsm-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lpsm-dev&theme=gotham"/></a>
+
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lpsm-dev&bg_color=000000&color=ffffff&line=ffffff&point=d9ed45&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 </details>
 

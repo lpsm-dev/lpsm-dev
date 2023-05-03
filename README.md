@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/kyubey.gif" width="100" heigh="100">
+  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/kyubey.gif" width="80" heigh="80">
   >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100" heigh="100">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80" heigh="80">
 </h1>
 
 <p align="center">

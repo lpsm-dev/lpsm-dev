@@ -1,34 +1,34 @@
 <h1 align="center">
-  <img src="https://github.com/ci-monk/ci-monk/raw/main/assets/kyubey.gif" width="100" heigh="100">
+  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/kyubey.gif" width="100" heigh="100">
   >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100" heigh="100">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ci-monk?tab=repositories&sort=stargazers">
+  <a href="https://github.com/lpsm-dev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=white&labelColor=black&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gsvprharsha"/>
   </a>
   
-  <a href="https://github.com/ci-monk">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ci-monk?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/lpsm-dev">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lpsm-dev?color=white&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   
   <br>
   <br>
   
-  <img src="https://github.com/ci-monk/ci-monk/raw/main/assets/code.gif" width="265">
+  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/code.gif" width="265">
 </p>
 
 <p align="center">
-[ <a href='https://github.com/ci-monk/ci-monk/issues/new'>Ask a question</a> ] ||
-[ <a href='https://github.com/ci-monk/ci-monk/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
+[ <a href='https://github.com/lpsm-dev/lpsm-dev/issues/new'>Ask a question</a> ] ||
+[ <a href='https://github.com/lpsm-dev/lpsm-dev/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a> ]
 </p>
 
 <p align="center">
   <samp>👇 Hit in your console or terminal to connect with me:</samp>
   
   <p align="center">
-    <code>npx ci-monk</code>
+    <code>npx lpsm-dev</code>
   </p>
 </p>
 
@@ -97,35 +97,35 @@ func GetBio() Bio {
 <h1 align="center">Repos</h1>
 
 <p align="center">
-  <a href="https://github.com/ci-monk/twitter-realtime-processing-covid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ci-monk&repo=twitter-realtime-processing-covid" />
+  <a href="https://github.com/lpsm-dev/twitter-realtime-processing-covid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=twitter-realtime-processing-covid" />
   </a>
   
-  <a href="https://github.com/ci-monk/twitter-sentimental-analysis-covid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ci-monk&repo=twitter-sentimental-analysis-covid" />
+  <a href="https://github.com/lpsm-dev/twitter-sentimental-analysis-covid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=twitter-sentimental-analysis-covid" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ci-monk&theme=nord&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&theme=nord&" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ci-monk&theme=nord&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lpsm-dev&theme=nord&" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ci-monk/helm-recursive-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ci-monk&repo=helm-recursive-library" />
+  <a href="https://github.com/lpsm-dev/helm-recursive-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=helm-recursive-library" />
   </a>
   
-  <a href="https://github.com/ci-monk/gitlab-ci-lint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ci-monk&repo=gitlab-ci-lint" />
+  <a href="https://github.com/lpsm-dev/gitlab-ci-lint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=gitlab-ci-lint" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ci-monk?tab=repositories">
+  <a href="https://github.com/lpsm-dev?tab=repositories">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-black?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
@@ -138,13 +138,13 @@ func GetBio() Bio {
 
 <details align="center"><summary>General</summary>
 <p align="center">
-  <img src="https://metrics.lecoq.io/ci-monk?template=terminal&base.community=0&languages=1&gists=1&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo">
+  <img src="https://metrics.lecoq.io/lpsm-dev?template=terminal&base.community=0&languages=1&gists=1&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo">
 </p>
 </details>
 
 <details align="center"><summary>Activity</summary>
 <p align="center">
-<img alt="ci-monk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ci-monk&theme=gotham"/></a>
+<img alt="lpsm-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lpsm-dev&theme=gotham"/></a>
 </p>
 </details>
 

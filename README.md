@@ -16,7 +16,7 @@
   <br>
   <br>
 
-  <img src=".github/assets/code.gif" width="225">
+  <img src=".github/assets/code.gif" width="175">
 </p>
 
 <p align="center">

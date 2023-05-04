@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/kyubey.gif" width="80" heigh="80">
+  <img src=".github/assets/kyubey.gif" width="80" heigh="80">
   >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80" heigh="80">
 </h1>
@@ -175,7 +175,7 @@ func GetBio() Bio {
 
 <div align="center">
 
-<img alt="star-wars" src="assets/yoda.gif" width="225"/>
+<img alt="star-wars" src=".github/assets/yoda.gif" width="225"/>
 
 </div>
 

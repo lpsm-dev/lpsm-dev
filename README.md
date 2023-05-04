@@ -175,7 +175,7 @@ func GetBio() Bio {
 
 <div align="center">
 
-<img alt="star-wars" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="225"/>
+<img alt="star-wars" src="assets/yoda.gif" width="225"/>
 
 </div>
 

@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src=".github/assets/kyubey.gif" width="80" heigh="80">
   >𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80" heigh="80">
+  <img src=".github/assets/cat.gif" width="80" heigh="80">
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <br>
   <br>
 
-  <img src="https://github.com/lpsm-dev/lpsm-dev/raw/main/assets/code.gif" width="225">
+  <img src=".github/assets/code.gif" width="225">
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ func GetBio() Bio {
 <h1 align="center">Techs</h1>
 
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="300" heigh="190"/>
+  <img align="center" src=".github/assets/typing.gif" alt="GIF" width="300" heigh="190"/>
 
   <br>
   <br>

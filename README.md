@@ -49,19 +49,19 @@ import "fmt"
 type Bio map[string]string
 
 func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
+    for k, v := range GetBio() {
+        fmt.Printf("%+v: %+v\n", k, v)
+    }
 }
 
 func GetBio() Bio {
-	return Bio{
-		"- 🔭 I’m currently working on":      "NuageIT as a DevOps Engineer",
-		"- 🌱 I’m currently learning":        "Rust, Blockchain, CyberSecurity",
-		"- 👯 I’m looking to collaborate on": "New solutions and open-source projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Ask me about anything that you want!",
-	}
+    return Bio{
+        "- 🔭 I'm currently working on":      "NuageIT as a DevOps Engineer",
+        "- 🌱 I'm currently learning":        "Rust, Blockchain, CyberSecurity",
+        "- 👯 I'm looking to collaborate on": "New solutions and open-source projects",
+        "- 🤔 I'm looking for help with":     "Anything related to what I am currently learning 😅",
+        "- 💬 Ask me about":                  "Ask me about anything that you want!",
+    }
 }
 ```
 

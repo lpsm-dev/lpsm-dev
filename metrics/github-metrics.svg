@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="751" class="">
-  
+
 
   <defs><style>@font-face {
   font-family: 'Courier Prime';
@@ -74,7 +74,7 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">lpsm-dev@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB11</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,270">
-              
+
                 <filter id="brightness1">
                   <feComponentTransfer>
                     <feFuncR type="linear" slope="0.6"/><feFuncG type="linear" slope="0.6"/><feFuncB type="linear" slope="0.6"/>

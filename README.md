@@ -162,18 +162,14 @@ func GetBio() Bio {
 <details align="center">
 <summary>General</summary>
 <p align="center">
-
-<img align="center" src="/metrics/github-metrics.svg" alt="Metrics" width="400">
-
+<img align="center" src="./metrics/github-metrics.svg" alt="Metrics" width="400">
 </p>
 </details>
 
 <details align="center">
 <summary>Activity</summary>
 <p align="center">
-
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lpsm-dev&bg_color=000000&color=ffffff&line=ffffff&point=d9ed45&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </p>
 </details>
 

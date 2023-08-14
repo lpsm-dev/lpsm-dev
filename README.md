@@ -95,12 +95,12 @@ func GetBio() Bio {
 <h1 align="center">Repos</h1>
 
 <p align="center">
-  <a href="https://github.com/lpsm-dev/twitter-realtime-processing-covid">
-    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=twitter-realtime-processing-covid" />
+  <a href="https://github.com/lpsm-dev/docker-crypto-miner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=docker-crypto-miner" />
   </a>
 
-  <a href="https://github.com/lpsm-dev/twitter-sentimental-analysis-covid">
-    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=twitter-sentimental-analysis-covid" />
+  <a href="https://github.com/lpsm-dev/drprune">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=drprune" />
   </a>
 </p>
 
@@ -113,13 +113,14 @@ func GetBio() Bio {
 </p>
 
 <p align="center">
-  <a href="https://github.com/lpsm-dev/helm-recursive-library">
-    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=helm-recursive-library" />
+  <a href="https://github.com/lpsm-dev/auto-earn-pre">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=auto-earn-pre" />
   </a>
 
-  <a href="https://github.com/lpsm-dev/gitlab-ci-lint">
-    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=gitlab-ci-lint" />
+  <a href="https://github.com/lpsm-dev/gex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=gex" />
   </a>
+
 </p>
 
 <p align="center">

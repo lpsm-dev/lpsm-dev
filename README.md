@@ -132,6 +132,31 @@ func GetBio() Bio {
 
 - [Google GitHub SDk] - [Add pagination options to list all package versions](https://github.com/google/go-github/pull/2250)
 
+
+<h1 align="center">Badges</h1>
+
+<p align="center">
+  <!-- AWS Certified Cloud Practitioner -->
+  <a href="https://www.credly.com/badges/b0c0fcc0-dffa-4bcc-9bdb-1c1f0f6101b2/public_url">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120">
+  </a>
+
+  <!-- CKAD: Certified Kubernetes Application Developer -->
+  <a href="https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url">
+    <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="120">
+  </a>
+
+  <!-- HashiCorp Certified: Terraform Associate (002) -->
+  <a href="https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url">
+    <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120">
+  </a>
+
+  <!-- SC102: Source Control Management with Git -->
+  <a href="https://www.credly.com/badges/9a43b812-c467-49aa-b584-59ee8a808d2e/public_url">
+    <img src="https://images.credly.com/size/340x340/images/29ad7ced-93b0-4543-b84c-3c6ccc183405/image.png" width="120">
+  </a>
+</p>
+
 <h1 align="center">Metrics</h1>
 
 <details align="center">

@@ -96,29 +96,29 @@ func GetBio() Bio {
 
 <p align="center">
   <a href="https://github.com/lpsm-dev/twitter-realtime-processing-covid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=twitter-realtime-processing-covid" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=twitter-realtime-processing-covid" />
   </a>
 
   <a href="https://github.com/lpsm-dev/twitter-sentimental-analysis-covid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=twitter-sentimental-analysis-covid" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=twitter-sentimental-analysis-covid" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&theme=nord&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&theme=nord" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lpsm-dev&theme=nord&" />
+  <img src="https://streak-stats.demolab.com/?user=lpsm-dev&theme=nord&" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lpsm-dev/helm-recursive-library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=helm-recursive-library" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=helm-recursive-library" />
   </a>
 
   <a href="https://github.com/lpsm-dev/gitlab-ci-lint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpsm-dev&repo=gitlab-ci-lint" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lpsm-dev&repo=gitlab-ci-lint" />
   </a>
 </p>
 

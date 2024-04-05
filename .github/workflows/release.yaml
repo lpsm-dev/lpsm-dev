@@ -20,21 +20,17 @@ jobs:
         fetch-depth: 0
         persist-credentials: false
       if: github.event.inputs.git-ref == 'main'
-
     - name: Setup node
       uses: actions/setup-node@v3
       with:
         node-version: "lts/*"
       if: github.event.inputs.git-ref == 'main'
-
     - name: Copy rules
       run: |
         cp .github/config/.releaserc.json .
-
     - name: Install dependencies
       run: npm install
       if: github.event.inputs.git-ref == 'main'
-
     - name: Release
       run: npx semantic-release
       env:

@@ -143,7 +143,7 @@ func GetBio() Bio {
   <a href="https://www.credly.com/badges/b0c0fcc0-dffa-4bcc-9bdb-1c1f0f6101b2/public_url">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120">
   </a>
-  
+
   <!-- AWS Certified SysOps Administrator – Associate -->
   <a href="https://www.credly.com/badges/028637d3-b11e-42c5-bae0-73f08afb8f4b/public_url">
     <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120">
@@ -170,7 +170,7 @@ func GetBio() Bio {
 <details align="center">
 <summary>General</summary>
 <p align="center">
-  
+
 <img align="center" src="./metrics/github-metrics.svg" alt="Metrics" width="400">
 
 </p>
@@ -179,7 +179,7 @@ func GetBio() Bio {
 <details align="center">
 <summary>Activity</summary>
 <p align="center">
-  
+
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lpsm-dev&bg_color=000000&color=ffffff&line=ffffff&point=d9ed45&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>

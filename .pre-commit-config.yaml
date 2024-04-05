@@ -42,3 +42,8 @@ repos:
   hooks:
   - id: gitleaks-system
     args: [--verbose]
+- repo: https://github.com/adrienverge/yamllint.git
+  rev: v1.35.1
+  hooks:
+  - id: yamllint
+    args: [--strict, -c=.github/config/.yamllint.yaml]

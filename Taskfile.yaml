@@ -30,3 +30,11 @@ tasks:
       msg: "gitleaks {{ .PATH_ERROR }}"
     cmds:
     - gitleaks detect --source={{ .TASKFILE_DIR }} --verbose
+
+  yamllint:
+    desc: Running a linter for YAML files
+    preconditions:
+    - sh: "which yamllint"
+      msg: "yamllint {{.PATH_ERROR}}"
+    cmds:
+    - yamllint -c {{ .TASKFILE_DIR }}/.github/config/.yamllint.yaml .

@@ -35,7 +35,7 @@
 
 <p>
   <samp>
-    Enthusiast, explorer and lover of DevOps culture, development with Python, NodeJS, Shell Script, PowerShell, Ruby and low level programming with C (OpenMP), automation and cloud. I currently work focused on container orchestration environments, cloud infrastructure, CI/CD pipeline construction for software delivery, git workflow and monitoring environments. I participate in DevOps projects with CI/CD, Infra as Code and GitFlow, managed by agile methodologies (Scrum and Kanban).
+    I'm an enthusiast, explorer, and lover of DevOps culture. I work with a variety of programming languages including Python, NodeJS, Shell Script, PowerShell, Ruby, and low-level programming with C (OpenMP). Currently, I'm focusing on container orchestration environments, cloud infrastructure, and constructing CI/CD pipelines for software delivery. I also have experience working with git workflows and monitoring environments. I love participating in DevOps projects with CI/CD, Infra as Code, and GitFlow, managed by agile methodologies like Scrum and Kanban.
   </samp>
 </p>
 
@@ -136,7 +136,7 @@ func GetBio() Bio {
 
 <h1 align="center">Badges</h1>
 
-<p align="center">I'm always excited to learn new technologies, here are some certifications / skills badges I've earned!</p>
+<p align="center">I'm always excited to learn about new technologies! Here are some of the certifications and skill badges I've earned:</p>
 
 <p align="center">
   <!-- AWS Certified Cloud Practitioner -->

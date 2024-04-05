@@ -189,7 +189,7 @@ func GetBio() Bio {
 
 <p align="center">
   <samp>
-    If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
+    If my work has made a positive impact on your life and you'd like to show your appreciation, you can buy me a coffee or donate any amount you wish.
   <samp>
 
   <br>

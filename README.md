@@ -35,9 +35,7 @@
 
 <p>
   <samp>
-    Enthusiast, explorer and lover of DevOps culture, automation and Cloud.
-
-    With several years of experience in the consulting and services industry, I'm currently working with cloud infrastructure, specifically AWS and container orchestration using Kubernetes. My skill set also includes Continuous Integration and Continuous Deployment (CI/CD) with tools like GitLab CI, GitHub Actions, and Azure DevOps. I'm involved in platform engineering with Backstage, managing secrets, and using Infrastructure as Code (IaC) with Terraform. I also monitor systems and work with other exciting techs.
+    Enthusiast, explorer and lover of DevOps culture, automation and Cloud. With several years of experience in the consulting and services industry, I'm currently working with cloud infrastructure, specifically AWS and container orchestration using Kubernetes. My skill set also includes Continuous Integration and Continuous Deployment (CI/CD) with tools like GitLab CI, GitHub Actions, and Azure DevOps. I'm involved in platform engineering with Backstage, managing secrets, and using Infrastructure as Code (IaC) with Terraform. I also monitor systems and work with other exciting techs.
   </samp>
 </p>
 

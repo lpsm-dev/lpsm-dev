@@ -35,7 +35,9 @@
 
 <p>
   <samp>
-    I'm an enthusiast, explorer, and lover of DevOps culture. I work with a variety of programming languages including Python, NodeJS, Shell Script, PowerShell, Ruby, and low-level programming with C (OpenMP). Currently, I'm focusing on container orchestration environments, cloud infrastructure, and constructing CI/CD pipelines for software delivery. I also have experience working with git workflows and monitoring environments. I love participating in DevOps projects with CI/CD, Infra as Code, and GitFlow, managed by agile methodologies like Scrum and Kanban.
+    Enthusiast, explorer and lover of DevOps culture, automation and Cloud.
+
+    With several years of experience in the consulting and services industry, I'm currently working with cloud infrastructure, specifically AWS and container orchestration using Kubernetes. My skill set also includes Continuous Integration and Continuous Deployment (CI/CD) with tools like GitLab CI, GitHub Actions, and Azure DevOps. I'm involved in platform engineering with Backstage, managing secrets, and using Infrastructure as Code (IaC) with Terraform. I also monitor systems and work with other exciting techs.
   </samp>
 </p>
 

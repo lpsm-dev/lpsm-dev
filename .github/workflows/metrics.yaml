@@ -2,36 +2,36 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{ cron: "0 * * * *" }]
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: { branches: ["main"] }
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-    - name: Recent activity
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics/github-metrics.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        user: lpsm-dev
-        template: terminal
-        base: header, activity, repositories, metadata
-        config_timezone: America/Sao_Paulo
-        plugin_gists: "yes"
-        plugin_isocalendar: "yes"
-        plugin_isocalendar_duration: full-year
-        plugin_languages: "yes"
-        plugin_languages_analysis_timeout: 15
-        plugin_languages_categories: markup, programming
-        plugin_languages_colors: github
-        plugin_languages_recent_categories: markup, programming
-        plugin_languages_recent_days: 14
-        plugin_languages_recent_load: 300
-        plugin_languages_sections: most-used
-        plugin_repositories: "yes"
-        plugin_repositories_starred: 5
-        plugin_repositories_order: starred
-        plugin_repositories_affiliations: owner
-        plugin_traffic: "yes"
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lpsm-dev
+          template: terminal
+          base: header, activity, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          plugin_gists: "yes"
+          plugin_isocalendar: "yes"
+          plugin_isocalendar_duration: full-year
+          plugin_languages: "yes"
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_repositories: "yes"
+          plugin_repositories_starred: 5
+          plugin_repositories_order: starred
+          plugin_repositories_affiliations: owner
+          plugin_traffic: "yes"

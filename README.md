@@ -138,32 +138,46 @@ func GetBio() Bio {
 
 <p align="center">I'm always excited to learn about new technologies! Here are some of the certifications and skill badges I've earned:</p>
 
-<p align="center">
-  <!-- AWS Certified Cloud Practitioner -->
-  <a href="https://www.credly.com/badges/b0c0fcc0-dffa-4bcc-9bdb-1c1f0f6101b2/public_url">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120">
-  </a>
 
-  <!-- AWS Certified SysOps Administrator – Associate -->
-  <a href="https://www.credly.com/badges/028637d3-b11e-42c5-bae0-73f08afb8f4b/public_url">
-    <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120">
-  </a>
+<div align="center">
+<!-- AWS Certified Cloud Practitioner -->
+<a href="https://www.credly.com/badges/b0c0fcc0-dffa-4bcc-9bdb-1c1f0f6101b2/public_url">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120">
+</a>
 
-  <!-- CKAD: Certified Kubernetes Application Developer -->
-  <a href="https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url">
-    <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="120">
-  </a>
+<!-- AWS Certified SysOps Administrator – Associate -->
+<a href="https://www.credly.com/badges/028637d3-b11e-42c5-bae0-73f08afb8f4b/public_url">
+  <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120">
+</a>
 
-  <!-- SC102: Source Control Management with Git -->
-  <a href="https://www.credly.com/badges/9a43b812-c467-49aa-b584-59ee8a808d2e/public_url">
-    <img src="https://images.credly.com/size/340x340/images/29ad7ced-93b0-4543-b84c-3c6ccc183405/image.png" width="120">
-  </a>
+<!-- CAPA: Certified Argo Project Associate -->
+<a href="https://www.credly.com/badges/4a69cc85-24c0-49d5-a580-f31c23aaec1b/public_url">
+  <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" width="120">
+</a>
 
-  <!-- HashiCorp Certified: Terraform Associate (002) -->
-  <a href="https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url">
-    <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120">
-  </a>
-</p>
+<!-- CKAD: Certified Kubernetes Application Developer -->
+<a href="https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url">
+  <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="120">
+</a>
+</div>
+
+<div align="center">
+<!-- SC102: Source Control Management with Git -->
+<a href="https://www.credly.com/badges/9a43b812-c467-49aa-b584-59ee8a808d2e/public_url">
+  <img src="https://images.credly.com/size/340x340/images/29ad7ced-93b0-4543-b84c-3c6ccc183405/image.png" width="120">
+</a>
+
+<!-- HashiCorp Certified: Terraform Associate (002) -->
+<a href="https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url">
+  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120">
+</a>
+
+<!-- GitHub Foundations -->
+<a href="https://www.credly.com/badges/7f10e522-85f3-4b0b-8a24-9e021965355a/public_url">
+  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120">
+</a>
+</div>
+
 
 <h1 align="center">Metrics</h1>
 

@@ -199,21 +199,6 @@ func GetBio() Bio {
 </p>
 </details>
 
-<h1 align="center">Donations</h1>
-
-<p align="center">
-  <samp>
-    If my work has made a positive impact on your life and you'd like to show your appreciation, you can buy me a coffee or donate any amount you wish.
-  <samp>
-
-  <br>
-  <br>
-
-  <a href="https://www.blockchain.com/pt/btc/address/bc1qhfnh66d2wnveg3s932dz4gtmdqljrj67hs7hta">
-    <img alt="BTC Address" src="https://img.shields.io/badge/BTC%20Address-black?style=for-the-badge&logo=bitcoin&logoColor=white">
-  </a>
-</p>
-
 <br>
 
 <div align="center">

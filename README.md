@@ -145,6 +145,11 @@ func GetBio() Bio {
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120">
 </a>
 
+<!-- AWS Certified AI Practitioner -->
+<a href="https://www.credly.com/badges/ddb545d2-3044-4eb7-b48a-f3f4b07df8ee">
+  <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="120">
+</a>
+
 <!-- AWS Certified SysOps Administrator – Associate -->
 <a href="https://www.credly.com/badges/028637d3-b11e-42c5-bae0-73f08afb8f4b/public_url">
   <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120">

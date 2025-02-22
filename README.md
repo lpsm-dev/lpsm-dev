@@ -155,26 +155,31 @@ func GetBio() Bio {
   <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120">
 </a>
 
-<!-- CAPA: Certified Argo Project Associate -->
-<a href="https://www.credly.com/badges/4a69cc85-24c0-49d5-a580-f31c23aaec1b/public_url">
-  <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" width="120">
+<!-- KCNA: Kubernetes and Cloud Native Associate -->
+<a href="https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url">
+  <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="120">
 </a>
 
 <!-- CKAD: Certified Kubernetes Application Developer -->
-<a href="https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url">
+<a href="https://www.credly.com/badges/8911adbe-a95b-492a-8ec7-22658435aff1/public_url">
   <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="120">
 </a>
 </div>
 
 <div align="center">
-<!-- SC102: Source Control Management with Git -->
-<a href="https://www.credly.com/badges/9a43b812-c467-49aa-b584-59ee8a808d2e/public_url">
-  <img src="https://images.credly.com/size/340x340/images/29ad7ced-93b0-4543-b84c-3c6ccc183405/image.png" width="120">
-</a>
-
 <!-- HashiCorp Certified: Terraform Associate (002) -->
 <a href="https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url">
   <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120">
+</a>
+  
+<!-- CAPA: Certified Argo Project Associate -->
+<a href="https://www.credly.com/badges/4a69cc85-24c0-49d5-a580-f31c23aaec1b/public_url">
+  <img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" width="120">
+</a>
+  
+<!-- SC102: Source Control Management with Git -->
+<a href="https://www.credly.com/badges/9a43b812-c467-49aa-b584-59ee8a808d2e/public_url">
+  <img src="https://images.credly.com/size/340x340/images/29ad7ced-93b0-4543-b84c-3c6ccc183405/image.png" width="120">
 </a>
 
 <!-- GitHub Foundations -->

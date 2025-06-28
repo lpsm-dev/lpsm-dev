@@ -156,7 +156,7 @@ func GetBio() Bio {
 </a>
 
 <!-- AWS Certified Solutions Architect – Associate -->
-<a href="https://www.credly.com/badges/eba53ed6-5eb4-4f15-8b8d-fb8e30288a5e/public_url>
+<a href="https://www.credly.com/badges/eba53ed6-5eb4-4f15-8b8d-fb8e30288a5e/public_url">
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120">
 </a>
 

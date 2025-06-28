@@ -155,6 +155,11 @@ func GetBio() Bio {
   <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="120">
 </a>
 
+<!-- AWS Certified Solutions Architect – Associate -->
+<a href="https://www.credly.com/badges/eba53ed6-5eb4-4f15-8b8d-fb8e30288a5e/public_url>
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120">
+</a>
+
 <!-- KCNA: Kubernetes and Cloud Native Associate -->
 <a href="https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url">
   <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="120">

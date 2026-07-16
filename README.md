@@ -68,18 +68,44 @@ func GetBio() Bio {
 
 ## `$ certifications`
 
+<samp>26 verified badges on [credly](https://www.credly.com/users/lucca-matos)</samp>
+
 | certification | issuer | verify |
 | --- | --- | --- |
-| AWS Certified Cloud Practitioner | AWS | [credly](https://www.credly.com/badges/b0c0fcc0-dffa-4bcc-9bdb-1c1f0f6101b2/public_url) |
-| AWS Certified AI Practitioner | AWS | [credly](https://www.credly.com/badges/ddb545d2-3044-4eb7-b48a-f3f4b07df8ee) |
-| AWS Certified SysOps Administrator - Associate | AWS | [credly](https://www.credly.com/badges/028637d3-b11e-42c5-bae0-73f08afb8f4b/public_url) |
+| AWS Certified DevOps Engineer - Professional | AWS | [credly](https://www.credly.com/badges/1f622842-f7c4-4fbb-81d0-ee345eade037/public_url) |
+| AWS Certified Security - Specialty | AWS | [credly](https://www.credly.com/badges/7d9c27b9-f300-4faf-b5a5-57508e7e362f/public_url) |
 | AWS Certified Solutions Architect - Associate | AWS | [credly](https://www.credly.com/badges/eba53ed6-5eb4-4f15-8b8d-fb8e30288a5e/public_url) |
-| KCNA: Kubernetes and Cloud Native Associate | CNCF | [credly](https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url) |
-| CKAD: Certified Kubernetes Application Developer | CNCF | [credly](https://www.credly.com/badges/8911adbe-a95b-492a-8ec7-22658435aff1/public_url) |
+| AWS Certified SysOps Administrator - Associate | AWS | [credly](https://www.credly.com/badges/04098c67-f89d-4372-b248-3fe85a3fcd86/public_url) |
+| AWS Certified AI Practitioner | AWS | [credly](https://www.credly.com/badges/ddb545d2-3044-4eb7-b48a-f3f4b07df8ee/public_url) |
+| AWS Certified Cloud Practitioner | AWS | [credly](https://www.credly.com/badges/2027791d-c718-4a44-bdfb-c199dc4dfa41/public_url) |
+| CKAD: Certified Kubernetes Application Developer | Linux Foundation | [credly](https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url) |
+| KCSA: Kubernetes and Cloud Native Security Associate | Linux Foundation | [credly](https://www.credly.com/badges/fb86997b-b952-45c6-b209-cade8a42912f/public_url) |
+| KCNA: Kubernetes and Cloud Native Associate | Linux Foundation | [credly](https://www.credly.com/badges/8911adbe-a95b-492a-8ec7-22658435aff1/public_url) |
+| PCA: Prometheus Certified Associate | Linux Foundation | [credly](https://www.credly.com/badges/f8eb8971-ae9c-407f-9d78-19913e80c672/public_url) |
+| CAPA: Certified Argo Project Associate | Linux Foundation | [credly](https://www.credly.com/badges/4a69cc85-24c0-49d5-a580-f31c23aaec1b/public_url) |
+| HashiCorp Certified: Terraform Associate (004) | HashiCorp | [credly](https://www.credly.com/badges/a6d780cc-5462-49df-9641-cd9f3be86a6b/public_url) |
 | HashiCorp Certified: Terraform Associate (002) | HashiCorp | [credly](https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url) |
-| CAPA: Certified Argo Project Associate | CNCF | [credly](https://www.credly.com/badges/4a69cc85-24c0-49d5-a580-f31c23aaec1b/public_url) |
-| SC102: Source Control Management with Git | Linux Foundation | [credly](https://www.credly.com/badges/9a43b812-c467-49aa-b584-59ee8a808d2e/public_url) |
 | GitHub Foundations | GitHub | [credly](https://www.credly.com/badges/7f10e522-85f3-4b0b-8a24-9e021965355a/public_url) |
+
+<details>
+<summary>training badges</summary>
+
+| badge | issuer | verify |
+| --- | --- | --- |
+| LFS256: DevOps and Workflow Management with Argo | Linux Foundation | [credly](https://www.credly.com/badges/34fabcec-099d-4a2c-85f7-c25f3a8a3367/public_url) |
+| LFS241: Monitoring Systems and Services with Prometheus | Linux Foundation | [credly](https://www.credly.com/badges/b01757f5-ecb9-43fd-94f8-250b4c0e36c7/public_url) |
+| LFEL1007: Automating Supply Chain Security - SBOMs and Signatures | Linux Foundation | [credly](https://www.credly.com/badges/0f5175ad-24e1-48eb-ab84-5abcf393ec94/public_url) |
+| LFS169: Introduction to GitOps | Linux Foundation | [credly](https://www.credly.com/badges/aa2e991c-555f-4228-b9b7-3354039dc0cb/public_url) |
+| SC102: Source Control Management with Git | Linux Foundation | [credly](https://www.credly.com/badges/9a43b812-c467-49aa-b584-59ee8a808d2e/public_url) |
+| Fundamentals for Kyverno | Nirmata | [credly](https://www.credly.com/badges/209e49f5-5976-4985-a69c-f1318e3c2df1/public_url) |
+| AWS Certified AI Practitioner Early Adopter | AWS | [credly](https://www.credly.com/badges/87aab871-6a80-489f-ae96-28d87e1aeec5/public_url) |
+| AWS Educate Introduction to Generative AI | AWS | [credly](https://www.credly.com/badges/5bb8cac7-408a-4d05-a4e2-b701e3adb675/public_url) |
+| Terraform Technical Sales Intermediate | IBM | [credly](https://www.credly.com/badges/ddcb8dec-4ab1-4fc1-84b9-a8fe114f5fe9/public_url) |
+| Cloudability Sales Foundation | IBM | [credly](https://www.credly.com/badges/c3118b5f-d985-451d-b3bb-035dc663d60b/public_url) |
+| Turbonomic Intermediate | IBM | [credly](https://www.credly.com/badges/956fa225-a1f0-49ec-bccb-8c17b25cb550/public_url) |
+| Turbonomic Sales Foundation | IBM | [credly](https://www.credly.com/badges/d29cc3ff-00e3-4d8d-af91-e3bd7eb9fe80/public_url) |
+
+</details>
 
 ## `$ stats`
 

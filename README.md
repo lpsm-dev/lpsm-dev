@@ -11,6 +11,16 @@ $ npx lpsm-dev   # interactive resume card in your terminal
 
 [ask a question](https://github.com/lpsm-dev/lpsm-dev/issues/new) · [browse answered questions](https://github.com/lpsm-dev/lpsm-dev/issues?q=is%3Aissue+is%3Aclosed)
 
+## `$ cat about.txt`
+
+<samp>
+Hi, I'm Lucca - a Brazil-based engineer who turns manual operations into code.
+My day-to-day is the path from commit to production: Kubernetes, Terraform and
+CI/CD pipelines on AWS. Lately I've been teaching AI agents to operate cloud
+infrastructure with me - MCP servers, Bedrock and multi-tenant platforms.
+14 certifications later, the lessons keep shipping as open-source tools.
+</samp>
+
 ## `$ whoami`
 
 ```go

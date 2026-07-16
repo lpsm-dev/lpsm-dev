@@ -1,6 +1,6 @@
 # lpsm-dev
 
-<samp>DevOps · Cloud · Automation · Open Source</samp>
+<samp>DevOps · Cloud · AI Agents · Automation · Open Source</samp>
 
 [![followers](https://img.shields.io/github/followers/lpsm-dev?style=flat-square&labelColor=black&color=white&label=follow)](https://github.com/lpsm-dev)
 [![stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Flpsm-dev&query=%24.stars&style=flat-square&labelColor=black&color=white&label=stars)](https://github.com/lpsm-dev?tab=repositories&sort=stargazers)
@@ -10,6 +10,16 @@ $ npx lpsm-dev   # interactive resume card in your terminal
 ```
 
 [ask a question](https://github.com/lpsm-dev/lpsm-dev/issues/new) · [browse answered questions](https://github.com/lpsm-dev/lpsm-dev/issues?q=is%3Aissue+is%3Aclosed)
+
+## `$ cat about.txt`
+
+<samp>
+Hi, I'm Lucca - a Brazil-based engineer who turns manual operations into code.
+My day-to-day is the path from commit to production: Kubernetes, Terraform and
+CI/CD pipelines on AWS. Lately I've been teaching AI agents to operate cloud
+infrastructure with me - MCP servers, Bedrock and multi-tenant platforms.
+14 certifications later, the lessons keep shipping as open-source tools.
+</samp>
 
 ## `$ whoami`
 
@@ -28,9 +38,11 @@ func main() {
 
 func GetBio() Bio {
     return Bio{
-        "- 🌱 currently learning":     "Rust, Blockchain, CyberSecurity",
-        "- 👯 open to collaborate on": "new solutions and open-source projects",
-        "- 💬 ask me about":           "DevOps, Kubernetes, CI/CD, IaC, Cloud",
+        "- 🔧 what I build":        "CLIs, pipelines and IaC that remove humans from deploys",
+        "- 🤖 lately shipping":     "AI agents, MCP tooling and multi-tenant cloud platforms",
+        "- 📜 proof":               "14 verified certifications (AWS, Kubernetes, Terraform)",
+        "- 🌱 currently learning":  "Rust, Blockchain, CyberSecurity",
+        "- 💬 ask me about":        "DevOps, Kubernetes, CI/CD, IaC, FinOps, AI agents",
     }
 }
 ```
@@ -63,22 +75,30 @@ func GetBio() Bio {
   <img alt="Argo" src="https://img.shields.io/badge/Argo-black?style=for-the-badge&logo=argo&logoColor=white">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=white">
+  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?style=for-the-badge&logo=datadog&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-black?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
+  <img alt="Amazon Bedrock" src="https://img.shields.io/badge/Amazon%20Bedrock-black?style=for-the-badge">
 </p>
 
 ## `$ pinned`
 
 | repo | description | stars |
 | --- | --- | --- |
-| [docker-crypto-miner](https://github.com/lpsm-dev/docker-crypto-miner) | user-friendly image for mining cryptocurrencies with your CPU | ![stars](https://img.shields.io/github/stars/lpsm-dev/docker-crypto-miner?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
-| [loli](https://github.com/lpsm-dev/loli) | pretty CLI to find animes by passing images | ![stars](https://img.shields.io/github/stars/lpsm-dev/loli?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
-| [azure-pipelines](https://github.com/lpsm-dev/azure-pipelines) | Azure DevOps pipeline: build, scan, test and deploy steps | ![stars](https://img.shields.io/github/stars/lpsm-dev/azure-pipelines?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
-| [gitlabrc](https://github.com/lpsm-dev/gitlabrc) | recursively clone all projects of a GitLab namespace | ![stars](https://img.shields.io/github/stars/lpsm-dev/gitlabrc?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [docker-crypto-miner](https://github.com/lpsm-dev/docker-crypto-miner) | mining setups are a dependency mess - this image makes it one `docker run` | ![stars](https://img.shields.io/github/stars/lpsm-dev/docker-crypto-miner?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [loli](https://github.com/lpsm-dev/loli) | you have the screenshot but not the anime name - this CLI finds it | ![stars](https://img.shields.io/github/stars/lpsm-dev/loli?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [azure-pipelines](https://github.com/lpsm-dev/azure-pipelines) | reusable build, scan and deploy steps so every project doesn't reinvent them | ![stars](https://img.shields.io/github/stars/lpsm-dev/azure-pipelines?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [gitlabrc](https://github.com/lpsm-dev/gitlabrc) | cloning an entire GitLab group by hand doesn't scale - one command does it | ![stars](https://img.shields.io/github/stars/lpsm-dev/gitlabrc?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
 
 [all repositories →](https://github.com/lpsm-dev?tab=repositories)
 
 ## `$ contributions`
 
-- [google/go-github#2250](https://github.com/google/go-github/pull/2250) - add pagination options to list all package versions
+My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed to list **all** versions of a container image - the GitHub SDK only fetched the first page. So I fixed it upstream:
+
+- [google/go-github#2250](https://github.com/google/go-github/pull/2250) - add pagination options to list all package versions (merged)
 
 ## `$ certifications`
 
@@ -143,4 +163,4 @@ func GetBio() Bio {
 
 ---
 
-<samp>$ echo "I love new connections - if you want to say hi, I'll be happy to meet you!"</samp>
+<samp>$ echo "want to collaborate? open an issue - I answer all of them"</samp>

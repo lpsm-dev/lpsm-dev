@@ -84,19 +84,28 @@ func GetBio() Bio {
 
 <samp>26 verified badges on [credly](https://www.credly.com/users/lucca-matos)</samp>
 
-<p>
+<p align="center">
   <a href="https://www.credly.com/badges/1f622842-f7c4-4fbb-81d0-ee345eade037/public_url"><img alt="AWS Certified DevOps Engineer - Professional" src="https://images.credly.com/size/150x150/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/7d9c27b9-f300-4faf-b5a5-57508e7e362f/public_url"><img alt="AWS Certified Security - Specialty" src="https://images.credly.com/size/150x150/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/eba53ed6-5eb4-4f15-8b8d-fb8e30288a5e/public_url"><img alt="AWS Certified Solutions Architect - Associate" src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/04098c67-f89d-4372-b248-3fe85a3fcd86/public_url"><img alt="AWS Certified SysOps Administrator - Associate" src="https://images.credly.com/size/150x150/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/ddb545d2-3044-4eb7-b48a-f3f4b07df8ee/public_url"><img alt="AWS Certified AI Practitioner" src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110"></a>
+</p>
+
+<p align="center">
   <a href="https://www.credly.com/badges/2027791d-c718-4a44-bdfb-c199dc4dfa41/public_url"><img alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url"><img alt="CKAD: Certified Kubernetes Application Developer" src="https://images.credly.com/size/150x150/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="110"></a>
   <a href="https://www.credly.com/badges/fb86997b-b952-45c6-b209-cade8a42912f/public_url"><img alt="KCSA: Kubernetes and Cloud Native Security Associate" src="https://images.credly.com/size/150x150/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/8911adbe-a95b-492a-8ec7-22658435aff1/public_url"><img alt="KCNA: Kubernetes and Cloud Native Associate" src="https://images.credly.com/size/150x150/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="110"></a>
+</p>
+
+<p align="center">
   <a href="https://www.credly.com/badges/f8eb8971-ae9c-407f-9d78-19913e80c672/public_url"><img alt="PCA: Prometheus Certified Associate" src="https://images.credly.com/size/150x150/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/4a69cc85-24c0-49d5-a580-f31c23aaec1b/public_url"><img alt="CAPA: Certified Argo Project Associate" src="https://images.credly.com/size/150x150/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" width="110"></a>
   <a href="https://www.credly.com/badges/a6d780cc-5462-49df-9641-cd9f3be86a6b/public_url"><img alt="HashiCorp Certified: Terraform Associate (004)" src="https://images.credly.com/size/150x150/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="110"></a>
+</p>
+
+<p align="center">
   <a href="https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url"><img alt="HashiCorp Certified: Terraform Associate (002)" src="https://images.credly.com/size/150x150/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" width="110"></a>
   <a href="https://www.credly.com/badges/7f10e522-85f3-4b0b-8a24-9e021965355a/public_url"><img alt="GitHub Foundations" src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="110"></a>
 </p>

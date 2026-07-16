@@ -1,6 +1,6 @@
 # lpsm-dev
 
-<samp>DevOps · Cloud · Automation · Open Source</samp>
+<samp>DevOps · Cloud · AI Agents · Automation · Open Source</samp>
 
 [![followers](https://img.shields.io/github/followers/lpsm-dev?style=flat-square&labelColor=black&color=white&label=follow)](https://github.com/lpsm-dev)
 [![stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Flpsm-dev&query=%24.stars&style=flat-square&labelColor=black&color=white&label=stars)](https://github.com/lpsm-dev?tab=repositories&sort=stargazers)
@@ -29,9 +29,10 @@ func main() {
 func GetBio() Bio {
     return Bio{
         "- 🔧 what I build":        "CLIs, pipelines and IaC that remove humans from deploys",
+        "- 🤖 lately shipping":     "AI agents, MCP tooling and multi-tenant cloud platforms",
         "- 📜 proof":               "14 verified certifications (AWS, Kubernetes, Terraform)",
         "- 🌱 currently learning":  "Rust, Blockchain, CyberSecurity",
-        "- 💬 ask me about":        "DevOps, Kubernetes, CI/CD, IaC, Cloud",
+        "- 💬 ask me about":        "DevOps, Kubernetes, CI/CD, IaC, FinOps, AI agents",
     }
 }
 ```
@@ -64,6 +65,12 @@ func GetBio() Bio {
   <img alt="Argo" src="https://img.shields.io/badge/Argo-black?style=for-the-badge&logo=argo&logoColor=white">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=white">
+  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-black?style=for-the-badge&logo=datadog&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-black?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
+  <img alt="Amazon Bedrock" src="https://img.shields.io/badge/Amazon%20Bedrock-black?style=for-the-badge">
 </p>
 
 ## `$ pinned`

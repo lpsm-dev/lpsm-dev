@@ -28,9 +28,10 @@ func main() {
 
 func GetBio() Bio {
     return Bio{
-        "- 🌱 currently learning":     "Rust, Blockchain, CyberSecurity",
-        "- 👯 open to collaborate on": "new solutions and open-source projects",
-        "- 💬 ask me about":           "DevOps, Kubernetes, CI/CD, IaC, Cloud",
+        "- 🔧 what I build":        "CLIs, pipelines and IaC that remove humans from deploys",
+        "- 📜 proof":               "14 verified certifications (AWS, Kubernetes, Terraform)",
+        "- 🌱 currently learning":  "Rust, Blockchain, CyberSecurity",
+        "- 💬 ask me about":        "DevOps, Kubernetes, CI/CD, IaC, Cloud",
     }
 }
 ```
@@ -69,16 +70,18 @@ func GetBio() Bio {
 
 | repo | description | stars |
 | --- | --- | --- |
-| [docker-crypto-miner](https://github.com/lpsm-dev/docker-crypto-miner) | user-friendly image for mining cryptocurrencies with your CPU | ![stars](https://img.shields.io/github/stars/lpsm-dev/docker-crypto-miner?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
-| [loli](https://github.com/lpsm-dev/loli) | pretty CLI to find animes by passing images | ![stars](https://img.shields.io/github/stars/lpsm-dev/loli?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
-| [azure-pipelines](https://github.com/lpsm-dev/azure-pipelines) | Azure DevOps pipeline: build, scan, test and deploy steps | ![stars](https://img.shields.io/github/stars/lpsm-dev/azure-pipelines?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
-| [gitlabrc](https://github.com/lpsm-dev/gitlabrc) | recursively clone all projects of a GitLab namespace | ![stars](https://img.shields.io/github/stars/lpsm-dev/gitlabrc?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [docker-crypto-miner](https://github.com/lpsm-dev/docker-crypto-miner) | mining setups are a dependency mess - this image makes it one `docker run` | ![stars](https://img.shields.io/github/stars/lpsm-dev/docker-crypto-miner?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [loli](https://github.com/lpsm-dev/loli) | you have the screenshot but not the anime name - this CLI finds it | ![stars](https://img.shields.io/github/stars/lpsm-dev/loli?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [azure-pipelines](https://github.com/lpsm-dev/azure-pipelines) | reusable build, scan and deploy steps so every project doesn't reinvent them | ![stars](https://img.shields.io/github/stars/lpsm-dev/azure-pipelines?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
+| [gitlabrc](https://github.com/lpsm-dev/gitlabrc) | cloning an entire GitLab group by hand doesn't scale - one command does it | ![stars](https://img.shields.io/github/stars/lpsm-dev/gitlabrc?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
 
 [all repositories →](https://github.com/lpsm-dev?tab=repositories)
 
 ## `$ contributions`
 
-- [google/go-github#2250](https://github.com/google/go-github/pull/2250) - add pagination options to list all package versions
+My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed to list **all** versions of a container image - the GitHub SDK only fetched the first page. So I fixed it upstream:
+
+- [google/go-github#2250](https://github.com/google/go-github/pull/2250) - add pagination options to list all package versions (merged)
 
 ## `$ certifications`
 
@@ -143,4 +146,4 @@ func GetBio() Bio {
 
 ---
 
-<samp>$ echo "I love new connections - if you want to say hi, I'll be happy to meet you!"</samp>
+<samp>$ echo "want to collaborate? open an issue - I answer all of them"</samp>

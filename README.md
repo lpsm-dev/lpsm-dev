@@ -150,6 +150,10 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 
 </details>
 
+## `$ interests`
+
+<samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
+
 ## `$ stats`
 
 <details>

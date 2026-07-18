@@ -1,0 +1,126 @@
+{
+  "en": {
+    "whoami": [
+      "Lucca Matos - cloud & platform engineer who lives in the terminal.",
+      "I build automation for cloud operations, DevSecOps and AI agents.",
+      "Big on infrastructure as code, CI/CD and making boring ops disappear."
+    ],
+    "now": [
+      "Building AI agent platforms for cloud operations (Bedrock, MCP).",
+      "Embedding security into pipelines: SAST, SCA, secrets and IaC scanning.",
+      "Exploring platform engineering and internal developer platforms."
+    ],
+    "languages": [
+      "Go",
+      "Python",
+      "TypeScript",
+      "Bash",
+      "JavaScript"
+    ],
+    "stack": [
+      "Cloud:      AWS",
+      "Containers: Kubernetes, Docker, Helm, ArgoCD",
+      "IaC:        Terraform, AWS CDK, Crossplane",
+      "CI/CD:      GitHub Actions, GitLab CI, Azure DevOps",
+      "DevSecOps:  Trivy, Checkov, SonarQube, Gitleaks",
+      "Platform:   Backstage, MCP, AI agents"
+    ],
+    "projects": [
+      "docker-crypto-miner - github.com/lpsm-dev/docker-crypto-miner",
+      "loli                - github.com/lpsm-dev/loli",
+      "azure-pipelines     - github.com/lpsm-dev/azure-pipelines",
+      "gitlabrc            - github.com/lpsm-dev/gitlabrc",
+      "more                - github.com/lpsm-dev?tab=repositories"
+    ],
+    "certifications": [
+      "AWS DevOps Engineer - Professional",
+      "AWS Security - Specialty",
+      "AWS Solutions Architect - Associate",
+      "AWS SysOps Administrator - Associate",
+      "AWS AI Practitioner",
+      "AWS Cloud Practitioner",
+      "CKAD - Kubernetes Application Developer",
+      "KCSA - Kubernetes Cloud Native Security Associate",
+      "KCNA - Kubernetes Cloud Native Associate",
+      "PCA - Prometheus Certified Associate",
+      "CAPA - Argo Project Associate",
+      "HashiCorp Terraform Associate (002, 004)",
+      "GitHub Foundations",
+      "26 verified badges - credly.com/users/lucca-matos"
+    ],
+    "interests": [
+      "Adventure sports",
+      "Anime",
+      "Camping",
+      "Music",
+      "Craft beer",
+      "Travel"
+    ],
+    "contact": [
+      "Blog:   https://blog.lpsm.cloud",
+      "GitHub: https://github.com/lpsm-dev"
+    ]
+  },
+  "pt": {
+    "whoami": [
+      "Lucca Matos - engenheiro de cloud & plataforma que vive no terminal.",
+      "Construo automação para operações cloud, DevSecOps e agentes de IA.",
+      "Fã de infraestrutura como código, CI/CD e de fazer op chato sumir."
+    ],
+    "agora": [
+      "Construindo plataformas de agentes de IA para operações cloud (Bedrock, MCP).",
+      "Colocando segurança nas pipelines: SAST, SCA, secrets e scan de IaC.",
+      "Explorando platform engineering e internal developer platforms."
+    ],
+    "linguagens": [
+      "Go",
+      "Python",
+      "TypeScript",
+      "Bash",
+      "JavaScript"
+    ],
+    "stack": [
+      "Cloud:      AWS",
+      "Containers: Kubernetes, Docker, Helm, ArgoCD",
+      "IaC:        Terraform, AWS CDK, Crossplane",
+      "CI/CD:      GitHub Actions, GitLab CI, Azure DevOps",
+      "DevSecOps:  Trivy, Checkov, SonarQube, Gitleaks",
+      "Plataforma: Backstage, MCP, agentes de IA"
+    ],
+    "projetos": [
+      "docker-crypto-miner - github.com/lpsm-dev/docker-crypto-miner",
+      "loli                - github.com/lpsm-dev/loli",
+      "azure-pipelines     - github.com/lpsm-dev/azure-pipelines",
+      "gitlabrc            - github.com/lpsm-dev/gitlabrc",
+      "mais                - github.com/lpsm-dev?tab=repositories"
+    ],
+    "certificações": [
+      "AWS DevOps Engineer - Professional",
+      "AWS Security - Specialty",
+      "AWS Solutions Architect - Associate",
+      "AWS SysOps Administrator - Associate",
+      "AWS AI Practitioner",
+      "AWS Cloud Practitioner",
+      "CKAD - Kubernetes Application Developer",
+      "KCSA - Kubernetes Cloud Native Security Associate",
+      "KCNA - Kubernetes Cloud Native Associate",
+      "PCA - Prometheus Certified Associate",
+      "CAPA - Argo Project Associate",
+      "HashiCorp Terraform Associate (002, 004)",
+      "GitHub Foundations",
+      "26 badges verificados - credly.com/users/lucca-matos"
+    ],
+    "interesses": [
+      "Esportes de aventura",
+      "Anime",
+      "Acampar",
+      "Música",
+      "Cerveja artesanal",
+      "Viagens"
+    ],
+    "contato": [
+      "Blog:   https://blog.lpsm.cloud",
+      "GitHub: https://github.com/lpsm-dev"
+    ]
+  }
+}

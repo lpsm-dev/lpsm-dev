@@ -49,6 +49,7 @@ func GetBio() Bio {
 
 ## `$ stack`
 
+<!-- gen:stack:start -->
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?&style=for-the-badge&logo=windows&logoColor=white">
@@ -82,9 +83,11 @@ func GetBio() Bio {
   <img alt="MCP" src="https://img.shields.io/badge/MCP-black?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
   <img alt="Amazon Bedrock" src="https://img.shields.io/badge/Amazon%20Bedrock-black?style=for-the-badge">
 </p>
+<!-- gen:stack:end -->
 
 ## `$ pinned`
 
+<!-- gen:pinned:start -->
 | repo | description | stars |
 | --- | --- | --- |
 | [docker-crypto-miner](https://github.com/lpsm-dev/docker-crypto-miner) | mining setups are a dependency mess - this image makes it one `docker run` | ![stars](https://img.shields.io/github/stars/lpsm-dev/docker-crypto-miner?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
@@ -93,6 +96,7 @@ func GetBio() Bio {
 | [gitlabrc](https://github.com/lpsm-dev/gitlabrc) | cloning an entire GitLab group by hand doesn't scale - one command does it | ![stars](https://img.shields.io/github/stars/lpsm-dev/gitlabrc?style=flat-square&labelColor=black&color=white&label=%E2%98%85) |
 
 [all repositories →](https://github.com/lpsm-dev?tab=repositories)
+<!-- gen:pinned:end -->
 
 ## `$ contributions`
 
@@ -102,6 +106,7 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 
 ## `$ certifications`
 
+<!-- gen:certifications:start -->
 <samp>26 verified badges on [credly](https://www.credly.com/users/lucca-matos)</samp>
 
 <p align="center">
@@ -129,6 +134,7 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
   <a href="https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url"><img alt="HashiCorp Certified: Terraform Associate (002)" src="https://images.credly.com/size/150x150/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" width="110"></a>
   <a href="https://www.credly.com/badges/7f10e522-85f3-4b0b-8a24-9e021965355a/public_url"><img alt="GitHub Foundations" src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="110"></a>
 </p>
+<!-- gen:certifications:end -->
 
 <details>
 <summary>training badges</summary>
@@ -152,7 +158,9 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 
 ## `$ interests`
 
+<!-- gen:interests:start -->
 <samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
+<!-- gen:interests:end -->
 
 ## `$ stats`
 

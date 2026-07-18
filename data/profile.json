@@ -17,37 +17,6 @@
       "Bash",
       "JavaScript"
     ],
-    "stack": [
-      "Cloud:      AWS",
-      "Containers: Kubernetes, Docker, Helm, ArgoCD",
-      "IaC:        Terraform, AWS CDK, Crossplane",
-      "CI/CD:      GitHub Actions, GitLab CI, Azure DevOps",
-      "DevSecOps:  Trivy, Checkov, SonarQube, Gitleaks",
-      "Platform:   Backstage, MCP, AI agents"
-    ],
-    "projects": [
-      "docker-crypto-miner - github.com/lpsm-dev/docker-crypto-miner",
-      "loli                - github.com/lpsm-dev/loli",
-      "azure-pipelines     - github.com/lpsm-dev/azure-pipelines",
-      "gitlabrc            - github.com/lpsm-dev/gitlabrc",
-      "more                - github.com/lpsm-dev?tab=repositories"
-    ],
-    "certifications": [
-      "AWS DevOps Engineer - Professional",
-      "AWS Security - Specialty",
-      "AWS Solutions Architect - Associate",
-      "AWS SysOps Administrator - Associate",
-      "AWS AI Practitioner",
-      "AWS Cloud Practitioner",
-      "CKAD - Kubernetes Application Developer",
-      "KCSA - Kubernetes Cloud Native Security Associate",
-      "KCNA - Kubernetes Cloud Native Associate",
-      "PCA - Prometheus Certified Associate",
-      "CAPA - Argo Project Associate",
-      "HashiCorp Terraform Associate (002, 004)",
-      "GitHub Foundations",
-      "26 verified badges - credly.com/users/lucca-matos"
-    ],
     "interests": [
       "Adventure sports",
       "Anime",
@@ -79,37 +48,6 @@
       "Bash",
       "JavaScript"
     ],
-    "stack": [
-      "Cloud:      AWS",
-      "Containers: Kubernetes, Docker, Helm, ArgoCD",
-      "IaC:        Terraform, AWS CDK, Crossplane",
-      "CI/CD:      GitHub Actions, GitLab CI, Azure DevOps",
-      "DevSecOps:  Trivy, Checkov, SonarQube, Gitleaks",
-      "Plataforma: Backstage, MCP, agentes de IA"
-    ],
-    "projetos": [
-      "docker-crypto-miner - github.com/lpsm-dev/docker-crypto-miner",
-      "loli                - github.com/lpsm-dev/loli",
-      "azure-pipelines     - github.com/lpsm-dev/azure-pipelines",
-      "gitlabrc            - github.com/lpsm-dev/gitlabrc",
-      "mais                - github.com/lpsm-dev?tab=repositories"
-    ],
-    "certificações": [
-      "AWS DevOps Engineer - Professional",
-      "AWS Security - Specialty",
-      "AWS Solutions Architect - Associate",
-      "AWS SysOps Administrator - Associate",
-      "AWS AI Practitioner",
-      "AWS Cloud Practitioner",
-      "CKAD - Kubernetes Application Developer",
-      "KCSA - Kubernetes Cloud Native Security Associate",
-      "KCNA - Kubernetes Cloud Native Associate",
-      "PCA - Prometheus Certified Associate",
-      "CAPA - Argo Project Associate",
-      "HashiCorp Terraform Associate (002, 004)",
-      "GitHub Foundations",
-      "26 badges verificados - credly.com/users/lucca-matos"
-    ],
     "interesses": [
       "Esportes de aventura",
       "Anime",
@@ -121,6 +59,271 @@
     "contato": [
       "Blog:   https://blog.lpsm.cloud",
       "GitHub: https://github.com/lpsm-dev"
+    ]
+  },
+  "stack": [
+    {
+      "name": "Linux",
+      "group": "os",
+      "badge": "https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white"
+    },
+    {
+      "name": "Windows",
+      "group": "os",
+      "badge": "https://img.shields.io/badge/-Windows-black?&style=for-the-badge&logo=windows&logoColor=white"
+    },
+    {
+      "name": "Git",
+      "group": "tools",
+      "badge": "https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white"
+    },
+    {
+      "name": "ShellScript",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/-ShellScript-black?style=for-the-badge&logo=gnu%20bash&logoColor=white"
+    },
+    {
+      "name": "Powershell",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/-PowerShell-black?&style=for-the-badge&logo=powershell&logoColor=white"
+    },
+    {
+      "name": "Python",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"
+    },
+    {
+      "name": "C",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"
+    },
+    {
+      "name": "C++",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+    },
+    {
+      "name": "Ruby",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=white"
+    },
+    {
+      "name": "Go",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=white"
+    },
+    {
+      "name": "JS",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=white"
+    },
+    {
+      "name": "Rust",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"
+    },
+    {
+      "name": "Kubernetes",
+      "group": "containers",
+      "badge": "https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white"
+    },
+    {
+      "name": "Docker",
+      "group": "containers",
+      "badge": "https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white"
+    },
+    {
+      "name": "Helm",
+      "group": "containers",
+      "badge": "https://img.shields.io/badge/Helm-black?style=for-the-badge&logo=helm&logoColor=white"
+    },
+    {
+      "name": "AWS",
+      "group": "cloud",
+      "badge": "https://img.shields.io/badge/AWS-black?style=for-the-badge"
+    },
+    {
+      "name": "GCP",
+      "group": "cloud",
+      "badge": "https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud&logoColor=white"
+    },
+    {
+      "name": "Terraform",
+      "group": "iac",
+      "badge": "https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=white"
+    },
+    {
+      "name": "Ansible",
+      "group": "iac",
+      "badge": "https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible&logoColor=white"
+    },
+    {
+      "name": "GitHub Actions",
+      "group": "cicd",
+      "badge": "https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=white"
+    },
+    {
+      "name": "GitLab CI",
+      "group": "cicd",
+      "badge": "https://img.shields.io/badge/GitLab%20CI-black?style=for-the-badge&logo=gitlab&logoColor=white"
+    },
+    {
+      "name": "Azure DevOps",
+      "group": "cicd",
+      "badge": "https://img.shields.io/badge/Azure%20DevOps-black?style=for-the-badge"
+    },
+    {
+      "name": "Argo",
+      "group": "containers",
+      "badge": "https://img.shields.io/badge/Argo-black?style=for-the-badge&logo=argo&logoColor=white"
+    },
+    {
+      "name": "Prometheus",
+      "group": "observability",
+      "badge": "https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus&logoColor=white"
+    },
+    {
+      "name": "Grafana",
+      "group": "observability",
+      "badge": "https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=white"
+    },
+    {
+      "name": "Datadog",
+      "group": "observability",
+      "badge": "https://img.shields.io/badge/Datadog-black?style=for-the-badge&logo=datadog&logoColor=white"
+    },
+    {
+      "name": "TypeScript",
+      "group": "languages",
+      "badge": "https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"
+    },
+    {
+      "name": "React",
+      "group": "frontend",
+      "badge": "https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white"
+    },
+    {
+      "name": "Claude",
+      "group": "ai",
+      "badge": "https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic&logoColor=white"
+    },
+    {
+      "name": "MCP",
+      "group": "ai",
+      "badge": "https://img.shields.io/badge/MCP-black?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"
+    },
+    {
+      "name": "Amazon Bedrock",
+      "group": "ai",
+      "badge": "https://img.shields.io/badge/Amazon%20Bedrock-black?style=for-the-badge"
+    }
+  ],
+  "projects": [
+    {
+      "name": "docker-crypto-miner",
+      "url": "https://github.com/lpsm-dev/docker-crypto-miner",
+      "description": "mining setups are a dependency mess - this image makes it one `docker run`"
+    },
+    {
+      "name": "loli",
+      "url": "https://github.com/lpsm-dev/loli",
+      "description": "you have the screenshot but not the anime name - this CLI finds it"
+    },
+    {
+      "name": "azure-pipelines",
+      "url": "https://github.com/lpsm-dev/azure-pipelines",
+      "description": "reusable build, scan and deploy steps so every project doesn't reinvent them"
+    },
+    {
+      "name": "gitlabrc",
+      "url": "https://github.com/lpsm-dev/gitlabrc",
+      "description": "cloning an entire GitLab group by hand doesn't scale - one command does it"
+    }
+  ],
+  "certifications": {
+    "credly": "https://www.credly.com/users/lucca-matos",
+    "count": 26,
+    "note": {
+      "en": "verified badges",
+      "pt": "badges verificados"
+    },
+    "rows": [
+      5,
+      4,
+      3,
+      2
+    ],
+    "items": [
+      {
+        "name": "AWS Certified DevOps Engineer - Professional",
+        "badge": "https://www.credly.com/badges/1f622842-f7c4-4fbb-81d0-ee345eade037/public_url",
+        "image": "https://images.credly.com/size/150x150/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"
+      },
+      {
+        "name": "AWS Certified Security - Specialty",
+        "badge": "https://www.credly.com/badges/7d9c27b9-f300-4faf-b5a5-57508e7e362f/public_url",
+        "image": "https://images.credly.com/size/150x150/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"
+      },
+      {
+        "name": "AWS Certified Solutions Architect - Associate",
+        "badge": "https://www.credly.com/badges/eba53ed6-5eb4-4f15-8b8d-fb8e30288a5e/public_url",
+        "image": "https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+      },
+      {
+        "name": "AWS Certified SysOps Administrator - Associate",
+        "badge": "https://www.credly.com/badges/04098c67-f89d-4372-b248-3fe85a3fcd86/public_url",
+        "image": "https://images.credly.com/size/150x150/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"
+      },
+      {
+        "name": "AWS Certified AI Practitioner",
+        "badge": "https://www.credly.com/badges/ddb545d2-3044-4eb7-b48a-f3f4b07df8ee/public_url",
+        "image": "https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png"
+      },
+      {
+        "name": "AWS Certified Cloud Practitioner",
+        "badge": "https://www.credly.com/badges/2027791d-c718-4a44-bdfb-c199dc4dfa41/public_url",
+        "image": "https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+      },
+      {
+        "name": "CKAD: Certified Kubernetes Application Developer",
+        "badge": "https://www.credly.com/badges/26d70dd2-b56b-4341-8131-8834b37bc666/public_url",
+        "image": "https://images.credly.com/size/150x150/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob"
+      },
+      {
+        "name": "KCSA: Kubernetes and Cloud Native Security Associate",
+        "badge": "https://www.credly.com/badges/fb86997b-b952-45c6-b209-cade8a42912f/public_url",
+        "image": "https://images.credly.com/size/150x150/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png"
+      },
+      {
+        "name": "KCNA: Kubernetes and Cloud Native Associate",
+        "badge": "https://www.credly.com/badges/8911adbe-a95b-492a-8ec7-22658435aff1/public_url",
+        "image": "https://images.credly.com/size/150x150/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png"
+      },
+      {
+        "name": "PCA: Prometheus Certified Associate",
+        "badge": "https://www.credly.com/badges/f8eb8971-ae9c-407f-9d78-19913e80c672/public_url",
+        "image": "https://images.credly.com/size/150x150/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png"
+      },
+      {
+        "name": "CAPA: Certified Argo Project Associate",
+        "badge": "https://www.credly.com/badges/4a69cc85-24c0-49d5-a580-f31c23aaec1b/public_url",
+        "image": "https://images.credly.com/size/150x150/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png"
+      },
+      {
+        "name": "HashiCorp Certified: Terraform Associate (004)",
+        "badge": "https://www.credly.com/badges/a6d780cc-5462-49df-9641-cd9f3be86a6b/public_url",
+        "image": "https://images.credly.com/size/150x150/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob"
+      },
+      {
+        "name": "HashiCorp Certified: Terraform Associate (002)",
+        "badge": "https://www.credly.com/badges/1efaf3e3-2681-435e-ab88-49d1f00e8ff7/public_url",
+        "image": "https://images.credly.com/size/150x150/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob"
+      },
+      {
+        "name": "GitHub Foundations",
+        "badge": "https://www.credly.com/badges/7f10e522-85f3-4b0b-8a24-9e021965355a/public_url",
+        "image": "https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+      }
     ]
   }
 }

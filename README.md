@@ -167,7 +167,14 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 <samp>when I actually push code, bucketed by time of day</samp>
 
 <!-- gen:commits:start -->
-<samp>waiting for the first scheduled run</samp>
+```text
+morning   6h-12h    389 commits  █████▌░░░░░░░░░░░░░░░   26.6%
+daytime  12h-18h    442 commits  ██████▎░░░░░░░░░░░░░░   30.2%
+evening  18h-24h    423 commits  ██████░░░░░░░░░░░░░░░   28.9%
+night      0h-6h    211 commits  ███░░░░░░░░░░░░░░░░░░   14.4%
+```
+
+<samp>1465 commits · America/Sao_Paulo · updated 2026-07-26</samp>
 <!-- gen:commits:end -->
 
 ## `$ stats`

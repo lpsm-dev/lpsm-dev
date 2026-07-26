@@ -11,12 +11,6 @@ $ npx lpsm-dev   # interactive resume card in your terminal
 
 [ask a question](https://github.com/lpsm-dev/lpsm-dev/issues/new) · [browse answered questions](https://github.com/lpsm-dev/lpsm-dev/issues?q=is%3Aissue+is%3Aclosed)
 
-## `$ interests`
-
-<!-- gen:interests:start -->
-<samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
-<!-- gen:interests:end -->
-
 ## `$ cat about.txt`
 
 <samp>
@@ -27,31 +21,28 @@ infrastructure with me - MCP servers, Bedrock and multi-tenant platforms.
 14 certifications later, the lessons keep shipping as open-source tools.
 </samp>
 
-## `$ whoami`
+## `$ kubectl get lucca`
 
-```go
-package main
-
-import "fmt"
-
-type Bio map[string]string
-
-func main() {
-    for k, v := range GetBio() {
-        fmt.Printf("%+v: %+v\n", k, v)
-    }
-}
-
-func GetBio() Bio {
-    return Bio{
-        "- 🔧 what I build":        "CLIs, pipelines and IaC that remove humans from deploys",
-        "- 🤖 lately shipping":     "AI agents, MCP tooling and multi-tenant cloud platforms",
-        "- 📜 proof":               "14 verified certifications (AWS, Kubernetes, Terraform)",
-        "- 🌱 currently learning":  "Rust, Blockchain, CyberSecurity",
-        "- 💬 ask me about":        "DevOps, Kubernetes, CI/CD, IaC, FinOps, AI agents",
-    }
-}
+```console
+NAME    ROLE                LOCATION   FOCUS                      STATUS
+lucca   Platform Engineer   Brazil     DevOps, Cloud, AI Agents   Shipping
 ```
+
+```console
+$ kubectl describe lucca
+
+What I Build:        CLIs, pipelines and IaC that remove humans from deploys
+Lately Shipping:     AI agents, MCP tooling and multi-tenant cloud platforms
+Proof:               14 verified certifications (AWS, Kubernetes, Terraform)
+Currently Learning:  Rust, Blockchain, CyberSecurity
+Ask Me About:        DevOps, Kubernetes, CI/CD, IaC, FinOps, AI agents
+```
+
+## `$ interests`
+
+<!-- gen:interests:start -->
+<samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
+<!-- gen:interests:end -->
 
 ## `$ stack`
 

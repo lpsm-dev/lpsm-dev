@@ -11,6 +11,12 @@ $ npx lpsm-dev   # interactive resume card in your terminal
 
 [ask a question](https://github.com/lpsm-dev/lpsm-dev/issues/new) · [browse answered questions](https://github.com/lpsm-dev/lpsm-dev/issues?q=is%3Aissue+is%3Aclosed)
 
+## `$ interests`
+
+<!-- gen:interests:start -->
+<samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
+<!-- gen:interests:end -->
+
 ## `$ cat about.txt`
 
 <samp>
@@ -155,12 +161,6 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 | Turbonomic Sales Foundation | IBM | [credly](https://www.credly.com/badges/d29cc3ff-00e3-4d8d-af91-e3bd7eb9fe80/public_url) |
 
 </details>
-
-## `$ interests`
-
-<!-- gen:interests:start -->
-<samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
-<!-- gen:interests:end -->
 
 ## `$ stats`
 

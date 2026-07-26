@@ -1,0 +1,36 @@
+---
+name: Commits
+
+on:
+  schedule: [{cron: "0 5 * * *"}]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  commit-rhythm:
+    name: Commit rhythm
+    runs-on: ubuntu-24.04
+    steps:
+    - name: Check out code from GitHub
+      uses: actions/checkout@v7
+    - name: Setup node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 22
+    - name: Collect commit timestamps
+      run: node scripts/commits.mjs
+      env:
+        GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        TIMEZONE: America/Sao_Paulo
+    - name: Render the README section
+      run: node scripts/render.mjs
+    - name: Push the result
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add data/commits.json README.md
+        git diff --quiet --cached && exit 0
+        git commit -m "chore: update commit rhythm [skip ci]"
+        git push

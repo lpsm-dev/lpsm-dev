@@ -162,6 +162,14 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 <samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
 <!-- gen:interests:end -->
 
+## `$ commits`
+
+<samp>when I actually push code, bucketed by time of day</samp>
+
+<!-- gen:commits:start -->
+<samp>waiting for the first scheduled run</samp>
+<!-- gen:commits:end -->
+
 ## `$ stats`
 
 <details>

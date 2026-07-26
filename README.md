@@ -11,12 +11,6 @@ $ npx lpsm-dev   # interactive resume card in your terminal
 
 [ask a question](https://github.com/lpsm-dev/lpsm-dev/issues/new) · [browse answered questions](https://github.com/lpsm-dev/lpsm-dev/issues?q=is%3Aissue+is%3Aclosed)
 
-## `$ interests`
-
-<!-- gen:interests:start -->
-<samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
-<!-- gen:interests:end -->
-
 ## `$ cat about.txt`
 
 <samp>
@@ -52,6 +46,12 @@ func GetBio() Bio {
     }
 }
 ```
+
+## `$ interests`
+
+<!-- gen:interests:start -->
+<samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
+<!-- gen:interests:end -->
 
 ## `$ stack`
 

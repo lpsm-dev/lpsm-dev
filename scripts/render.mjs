@@ -3,11 +3,14 @@
 // Reads data/profile.json (structured) and regenerates:
 //   1. the marked sections of README.md (stack, pinned, certifications, interests)
 //   2. data/profile.cli.json (flattened strings consumed by the npx lpsm-dev CLI)
+// The `commits` section comes from data/commits.json, written by scripts/commits.mjs.
 // Run: `node scripts/render.mjs`. CI runs it with --check to fail on drift.
-import {readFileSync, writeFileSync} from 'node:fs';
+import {existsSync, readFileSync, writeFileSync} from 'node:fs';
 
 const root = new URL('..', import.meta.url).pathname;
-const data = JSON.parse(readFileSync(root + 'data/profile.json', 'utf8'));
+const readJson = (path) => JSON.parse(readFileSync(root + path, 'utf8'));
+const data = readJson('data/profile.json');
+const commits = existsSync(root + 'data/commits.json') ? readJson('data/commits.json') : null;
 const check = process.argv.includes('--check');
 
 // ---------- README section renderers ----------
@@ -42,6 +45,37 @@ function renderCerts() {
   }
   lines.pop();
   return lines.join('\n');
+}
+
+// Unicode eighth-blocks: one full block per 8 filled eighths, ░ for the remainder.
+function bar(percent, size) {
+  const syms = '░▏▎▍▌▋▊▉█';
+  const eighths = Math.floor((size * 8 * percent) / 100);
+  const full = Math.floor(eighths / 8);
+  if (full >= size) return syms[8].repeat(size);
+  const semi = eighths % 8;
+  return (syms[8].repeat(full) + syms[semi]).padEnd(size, syms[0]);
+}
+
+function renderCommits() {
+  const pad = Math.max(...commits.buckets.map((b) => b.key.length));
+  const lines = commits.buckets.map((b) => {
+    const percent = (b.commits / commits.total) * 100;
+    return [
+      b.key.padEnd(pad),
+      b.range.padStart(7),
+      `${String(b.commits).padStart(5)} commits`,
+      bar(percent, 21),
+      `${percent.toFixed(1).padStart(5)}%`,
+    ].join('  ');
+  });
+  return [
+    '```text',
+    ...lines,
+    '```',
+    '',
+    `<samp>${commits.total} commits · ${commits.timezone} · updated ${commits.generated}</samp>`,
+  ].join('\n');
 }
 
 // ---------- CLI flattening ----------
@@ -112,6 +146,7 @@ readme = replaceSection(readme, 'stack', renderStack());
 readme = replaceSection(readme, 'pinned', renderPinned());
 readme = replaceSection(readme, 'certifications', renderCerts());
 readme = replaceSection(readme, 'interests', renderInterests());
+if (commits?.total) readme = replaceSection(readme, 'commits', renderCommits());
 const cli = JSON.stringify(buildCli(), null, 2) + '\n';
 
 if (check) {

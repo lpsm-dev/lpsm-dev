@@ -162,7 +162,7 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 <samp>Adventure sports · Anime · Camping · Music · Craft beer · Travel</samp>
 <!-- gen:interests:end -->
 
-## `$ commits`
+## `$ stats`
 
 <samp>when I actually push code, bucketed by time of day</samp>
 
@@ -176,8 +176,6 @@ night      0h-6h    211 commits  ███░░░░░░░░░░░░�
 
 <samp>1465 commits · America/Sao_Paulo · updated 2026-07-26</samp>
 <!-- gen:commits:end -->
-
-## `$ stats`
 
 <details>
 <summary>github metrics</summary>

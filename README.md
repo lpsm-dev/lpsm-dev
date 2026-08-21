@@ -168,13 +168,13 @@ My registry-pruning tool [drprune](https://github.com/lpsm-dev/drprune) needed t
 
 <!-- gen:commits:start -->
 ```text
-morning   6h-12h    422 commits  █████▉░░░░░░░░░░░░░░░   28.4%
-daytime  12h-18h    452 commits  ██████▍░░░░░░░░░░░░░░   30.4%
-evening  18h-24h    399 commits  █████▋░░░░░░░░░░░░░░░   26.8%
-night      0h-6h    214 commits  ███░░░░░░░░░░░░░░░░░░   14.4%
+morning   6h-12h    425 commits  ██████░░░░░░░░░░░░░░░   28.6%
+daytime  12h-18h    450 commits  ██████▎░░░░░░░░░░░░░░   30.3%
+evening  18h-24h    400 commits  █████▋░░░░░░░░░░░░░░░   26.9%
+night      0h-6h    212 commits  ██▉░░░░░░░░░░░░░░░░░░   14.3%
 ```
 
-<samp>1487 commits · America/Sao_Paulo · updated 2026-08-20</samp>
+<samp>1487 commits · America/Sao_Paulo · updated 2026-08-21</samp>
 <!-- gen:commits:end -->
 
 <details>
